@@ -21,7 +21,7 @@ This project is me doing that.
 Follow these instructions.
 
 * Run the program:
-  * `deno run --allow-net app.js`
+  * `deno run --allow-net app.ts`
 * Open the browser
   * Open the browser at <http://localhost:8000/> and see a message!
 
